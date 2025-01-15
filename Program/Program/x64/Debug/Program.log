@@ -1,3 +1,2 @@
 ﻿  Program.cpp
-C:\Users\양현규\Desktop\겜프\Github\GameProject3\Program\Program\Program.cpp(34,8): error C2082: 'x' 정식 매개 변수 재정의
-C:\Users\양현규\Desktop\겜프\Github\GameProject3\Program\Program\Program.cpp(34,11): error C2062: 예기치 않은 'int' 형식입니다.
+  Program.vcxproj -> C:\Users\양현규\Desktop\겜프\Github\GameProject3\Program\x64\Debug\Program.exe

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7382DB-CB25-490A-9592-7947EB6FB018}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D7382DB-CB25-490A-9592-7947EB6FB018}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|solutionrelative:Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +28,23 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.752Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "RelativeToolTip": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T10:37:50.459Z",
               "EditorCaption": ""
             }
           ]
