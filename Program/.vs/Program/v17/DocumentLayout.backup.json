@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86DD26C2-9A75-4D95-B22D-77BA92ABBC2B}|Class5th (Inheritance)\\Class5th (Inheritance).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class5th (Inheritance)\\Class5th (Inheritance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86DD26C2-9A75-4D95-B22D-77BA92ABBC2B}|Class5th (Inheritance)\\Class5th (Inheritance).vcxproj|solutionrelative:Class5th (Inheritance)\\Class5th (Inheritance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D7382DB-CB25-490A-9592-7947EB6FB018}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8D7382DB-CB25-490A-9592-7947EB6FB018}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|solutionrelative:Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.752Z",
               "IsPinned": true,
@@ -41,6 +45,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class5th (Inheritance).cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class5th (Inheritance)\\Class5th (Inheritance).cpp",
+              "RelativeDocumentMoniker": "Class5th (Inheritance)\\Class5th (Inheritance).cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class5th (Inheritance)\\Class5th (Inheritance).cpp",
+              "RelativeToolTip": "Class5th (Inheritance)\\Class5th (Inheritance).cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T10:05:22.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -48,12 +65,11 @@
               "RelativeToolTip": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-15T10:37:50.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:37:50.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
               "RelativeDocumentMoniker": "Class4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
@@ -61,8 +77,7 @@
               "RelativeToolTip": "Class4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-17T10:24:52.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T10:24:52.862Z"
             }
           ]
         }
