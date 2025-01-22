@@ -6,3 +6,12 @@ SiegeTank::SiegeTank()
 	health = 150;
 	defense = 1;
 }
+
+void SiegeTank::Stats()
+{
+	cout << "Attack : " << attack << endl;
+	cout << "Attack (Siege Mode) : " << attack + 40 << endl;
+
+	cout << "Health : " << health << endl;
+	cout << "Defenes : " << defense << endl;
+}

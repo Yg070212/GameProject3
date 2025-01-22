@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Vultuer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Goliath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Goliath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\SiegeTank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\SiegeTank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\SiegeTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\SiegeTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Goliath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Goliath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,12 +31,12 @@
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\SiegeTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\SiegeTank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Vultuer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Vultuer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86DD26C2-9A75-4D95-B22D-77BA92ABBC2B}|Class5th (Inheritance)\\Class5th (Inheritance).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class5th (Inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -64,10 +72,36 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.752Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goliath.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Goliath.cpp",
+              "RelativeDocumentMoniker": "Program\\Goliath.cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Goliath.cpp",
+              "RelativeToolTip": "Program\\Goliath.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T09:04:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goliath.h",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Goliath.h",
+              "RelativeDocumentMoniker": "Program\\Goliath.h",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Goliath.h",
+              "RelativeToolTip": "Program\\Goliath.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-22T09:04:11.704Z",
               "EditorCaption": ""
             },
             {
@@ -78,79 +112,79 @@
               "RelativeDocumentMoniker": "Program\\SiegeTank.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\SiegeTank.cpp",
               "RelativeToolTip": "Program\\SiegeTank.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T10:36:20.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Vultuer.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.cpp",
               "RelativeDocumentMoniker": "Program\\Vultuer.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.cpp",
               "RelativeToolTip": "Program\\Vultuer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T10:36:11.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SiegeTank.h",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\SiegeTank.h",
               "RelativeDocumentMoniker": "Program\\SiegeTank.h",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\SiegeTank.h",
               "RelativeToolTip": "Program\\SiegeTank.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-21T10:34:12.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Vultuer.h",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.h",
               "RelativeDocumentMoniker": "Program\\Vultuer.h",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Vultuer.h",
               "RelativeToolTip": "Program\\Vultuer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-21T10:32:30.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Terran.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Terran.cpp",
               "RelativeDocumentMoniker": "Program\\Terran.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Terran.cpp",
               "RelativeToolTip": "Program\\Terran.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T10:24:40.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Terran.h",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Terran.h",
               "RelativeDocumentMoniker": "Program\\Terran.h",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Terran.h",
               "RelativeToolTip": "Program\\Terran.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-21T10:20:40.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class5th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "Class5th (Inheritance)\\Source.cpp",
@@ -158,12 +192,11 @@
               "RelativeToolTip": "Class5th (Inheritance)\\Source.cpp",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T10:07:33.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:07:33.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class6th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "Class6th (Polymorphism)\\Source.cpp",
@@ -171,12 +204,11 @@
               "RelativeToolTip": "Class6th (Polymorphism)\\Source.cpp",
               "ViewState": "AgIAAGoAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T10:06:23.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:06:23.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -184,12 +216,11 @@
               "RelativeToolTip": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-15T10:37:50.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:37:50.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
               "RelativeDocumentMoniker": "Class4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
@@ -197,8 +228,7 @@
               "RelativeToolTip": "Class4th (Shallow Copy \u0026 Deep Copy)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-17T10:24:52.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T10:24:52.862Z"
             }
           ]
         }

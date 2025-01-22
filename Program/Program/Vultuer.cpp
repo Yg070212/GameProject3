@@ -7,3 +7,7 @@ Vultuer::Vultuer()
 	defense = 0;
 
 }
+
+void Vultuer::Stata()
+{
+}
