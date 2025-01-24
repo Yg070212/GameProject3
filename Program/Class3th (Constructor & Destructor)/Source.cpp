@@ -69,7 +69,7 @@ int main()
 #pragma endregion
 
 #pragma region 소멸자
-	// 객체가 소멸될 떄 자동으로 실행되는 클래스의
+	// 객체가 소멸될 때 자동으로 실행되는 클래스의
 	// 멤버 함수 입니다.
 
 	// Object * object1 = new Object;
