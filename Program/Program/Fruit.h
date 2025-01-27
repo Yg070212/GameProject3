@@ -6,6 +6,7 @@ using namespace std;
 class Fruit
 {
 public:
+	Fruit();
 	virtual ~Fruit();
 };
 

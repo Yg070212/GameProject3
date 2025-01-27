@@ -3,7 +3,7 @@
 class Banana : public Fruit
 {
 public:
-
-	virtual ~Banana();
+	Banana();
+	~Banana() override;
 };
 
