@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{AF5680B4-7E39-41C3-80C9-D9DC6E625386}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BC8F1BE7-6B75-4CF1-9B96-7F793F796E64}|Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class9th (Operator Overloading)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC8F1BE7-6B75-4CF1-9B96-7F793F796E64}|Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|solutionrelative:Class9th (Operator Overloading)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C68A77C-EFB0-4598-9FF7-DE7D9881C761}|Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C68A77C-EFB0-4598-9FF7-DE7D9881C761}|Class8th (Abstract)\\Class8th (Abstract).vcxproj|solutionrelative:Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:07:03.752Z",
               "IsPinned": true,
@@ -38,14 +42,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class9th (Operator Overloading)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class9th (Operator Overloading)\\Source.cpp",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class9th (Operator Overloading)\\Source.cpp",
+              "RelativeToolTip": "Class9th (Operator Overloading)\\Source.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T10:17:01.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class8th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "Class8th (Abstract)\\Source.cpp",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\GameProject3\\Program\\Class8th (Abstract)\\Source.cpp",
               "RelativeToolTip": "Class8th (Abstract)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T09:31:43.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T09:31:43.288Z"
             }
           ]
         }
